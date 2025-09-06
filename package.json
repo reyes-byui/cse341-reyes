@@ -1,0 +1,23 @@
+{
+  "name": "cse341-reyes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reyes-byui/cse341-reyes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reyes-byui/cse341-reyes/issues"
+  },
+  "homepage": "https://github.com/reyes-byui/cse341-reyes#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
